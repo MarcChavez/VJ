@@ -1,2 +1,3 @@
-# VJ
- VJ - FIB
+## Creadores
+- Marc Castro Chavez
+- Arnau Yepes Huguet

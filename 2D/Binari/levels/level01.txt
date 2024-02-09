@@ -1,0 +1,29 @@
+TILEMAP
+32 22 							-- Size of tile map in tiles
+20 20					-- o 20 32 o 16 32			-- Tile size & block size
+images/labuena.png			-- Tilesheet
+12 5					-- Number of tiles in tilesheet
+82					--Baldosas
+3					--Numero de Enemigos p-portal m-skeleton n-archer o-vampire q-key r-gem s-stopwatch t-time u-main
+=CJJJJJJJJJJJJJJJJJJJJJJJJJJJJC?
+NL                            ]M
+NL                            ]M
+NL                            ]M
+NL                  p         ]M
+NL      UUUUUUaaaaUUhhUU      ]M
+NL            CCCC            ]M
+NL            C  C            ]M
+NL    UUUUUUUUC  CUUUUUUUU    ]M
+NL            C  C            ]M
+NL            C  C      o     ]M
+NL  UUUUUUUUUUCCCCUUUUUUUUUU  ]M
+NL                            ]M
+NL                            ]M
+NL  UUUU                UUUU  ]M
+NL                            ]M
+NL                            ]M
+NL  UU                    UU  ]M
+NL                            ]M
+N_      m             m       _M
+6Ccccccccccc        ccccccccccC7
+CCCCCCCCCCCC11111111CCCCCCCCCCCC

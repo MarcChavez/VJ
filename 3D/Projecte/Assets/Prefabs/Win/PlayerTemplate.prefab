@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &702188347762402604
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 702188347762402602}
+  - component: {fileID: 702188347762402605}
+  m_Layer: 0
+  m_Name: PlayerTemplate
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &702188347762402602
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 702188347762402604}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 22.429314, y: 10.023153, z: -33.84808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &702188347762402605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 702188347762402604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e07dac81d919f8b4d85196133ee8e222, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mat1G: {fileID: 2100000, guid: 57d35b3c2c13c8848ac8b442c87b79c8, type: 2}
+  mat2G: {fileID: 2100000, guid: 66ac0105d2de10e42a11cdb81f6e8ee4, type: 2}
+  mat1S: {fileID: 2100000, guid: 8060843f9158d2e479064ff545d42365, type: 2}
+  mat2S: {fileID: 2100000, guid: f515cb823c356eb4fb21a308866285e9, type: 2}
+  mat1R: {fileID: 2100000, guid: adc6f722d9b3de547ad0e3275bd30514, type: 2}
+  mat2R: {fileID: 2100000, guid: 5424e5c2d1795714ab04e53b781c569b, type: 2}
+  mat1H: {fileID: 2100000, guid: 2d3c3979aed632744a66bc5c6bfe3ca3, type: 2}
+  mat2H: {fileID: 2100000, guid: 71b175ebfa3ec654684d40a48c32f34b, type: 2}
+  renderers1: {fileID: 0}
+  renderers2: {fileID: 0}

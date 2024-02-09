@@ -1,0 +1,72 @@
+Creadores
+*********
+Creadores:
+Marc Castro Chavez
+Arnau Yepes Huguet
+
+
+Funcionalidades
+***************
+- Estructura de 7 pantallas:
+	-Menú Principal
+	-Jugar
+	-Controles
+	-Password
+	-Oso
+	-Game Over
+	-Creditos
+
+Sonidos
+	-Musica del menu principal
+	-Musica de Game Over
+	-Musica de Creditos
+	-Sonido de muerte
+	-Sonido victoria
+	-Sonido pisar baldosa
+	-Sonido LLave al entrar Portal
+	-Sonido parar el tiempo
+	-Sonido Reloj de Arena
+	-Sonido aparecer por el portal
+	-Sonido Disparo
+	-Sonido transformacion Vampiro
+	-Sonido Gema
+
+Comandos
+********
+	-G: Inmortalidad
+	-K: Sale la llave al momento
+	-1/2/3: Pasa al nivel correspondiente
+	-F3: Oso
+	-H: Spawnea un Reloj de Arena
+	-C: Spawnea un Chronometro
+	-M: Spawnea una Gema
+
+Passwords:
+	CONTRASEÑA-LEVEL
+	CYBORG-1
+	DRON-2
+	LASER-3
+	CPU-4
+	MAQUINA-5
+	DROIDE-6
+	NAVE-7
+	ZOU-8
+
+Instruciones
+************
+Una vez ejecutado el binario se nos abrirá el menú principal con las siguientes opciones (seleccionamos con las
+flechas y entramos con el ENTER/Espacio):
+	-Play: Empezar a jugar
+	-Password: Menu para introducir la contraseña
+	-Exit: Cierra el juego
+
+Una vez estemos jugando, manteniendo pulsado F2 muestra los controles, que son los siguientes:
+	-Flechas para moverse
+	-F1 para ver la password del nivel en el que estas
+	-F2 para ver los controles
+
+COMO PASARSE EL NIVEL:
+**********************
+
+Pisa todas las baldosas para que estan se activen, su color cambiara, una vez activadas todas saldra la llave que abrira el portal,+
+para pasarte el nivel sal por el portal una vez que este se abra.
